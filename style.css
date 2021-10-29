@@ -1,0 +1,34 @@
+body{
+    background-color: blanchedalmond;
+    
+}
+
+.greeting{
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+    display: block;
+    border: 2px dotted blue;
+    border-radius: 100px;
+    position: sticky;
+    padding-left: 30px;
+}
+h1{
+    color: blueviolet ;
+   
+}
+p{
+    color: darkred;
+    text-align: center;
+    border: 3px solid green;
+    padding: 20px;
+    background-color: orange;
+    opacity: .7;
+    position: relative;
+    border-radius: 100px;
+
+}
+strong{
+    font-family: cursive;
+    color: green;
+}
